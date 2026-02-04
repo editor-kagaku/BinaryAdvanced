@@ -2,7 +2,7 @@
 
 [<img src="https://m.media-amazon.com/images/I/91pZiq2pqcL._SL1500_.jpg" width="300px">](https://www.amazon.co.jp/dp/4910558640)
 
-『バイナリファイル解析ハンズオン ツールだけに頼らない実践力レベルアップ』（科学情報出版）のサポートリポジトリです。
+『バイナリファイル解析ハンズオン ツールだけに頼らない実践力レベルアップ』（[科学情報出版](https://www.it-book.co.jp/books/174.html)）のサポートリポジトリです。
 
 - [コード](#code)
 - [リンク集](#link)
